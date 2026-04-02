@@ -1,0 +1,7 @@
+{
+  "crawler_name": "telecom-crawler",
+  "database_name": "telecom_db",
+  "s3_target": "s3://your-bucket-name/telecom-data/",
+  "schedule": "cron(0 6 * * ? *)",
+  "tags": {"project": "telecom-analytics", "owner": "traore8issiaka1"}
+}

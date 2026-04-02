@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+.aws/
+credentials
+*.pem
+*.csv
+*.parquet
+data/
+.DS_Store
+athena-results/
